@@ -10,10 +10,6 @@ All you need to do to use it is visit the official website and use it.
 
 All the current devices with internet access can use the app.
 
-```
-Give examples
-```
-
 ### Installing (pwa)
 
 We will complete this step as soon as we finish the first version. =P 
